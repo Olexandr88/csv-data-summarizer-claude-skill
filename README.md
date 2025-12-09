@@ -18,7 +18,7 @@ A powerful Claude Skill that automatically analyzes CSV files and generates comp
 
 [![Version](https://img.shields.io/badge/version-2.1.0-blue.svg)](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill)
 [![Python](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-orange.svg)](https://opensource.org/license/MIT)
 
 </div>
 
